@@ -4,7 +4,7 @@
 
 This place was created for tracking a **bug reports** or **feature suggestions** concerning NyaRO!
 
-Here you can [browse for the **existing issues**](https://github.com/playdforg/NyaRO/issues) or [create a **new one**](https://github.com/playdforg/NyaRO/issues/new).
+Here you can [browse for the **existing issues**](https://github.com/playdforg/NyaRO/issues) or [create a **new one**](https://github.com/playdforg/NyaRO/issues/new/choose).
 
 If you prefer, you can see the existing issues as a [kanban board](https://github.com/playdforg/NyaRO/projects/1) or view the [development milestones](https://github.com/playdforg/NyaRO/milestones).
 
