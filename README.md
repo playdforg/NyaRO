@@ -1,5 +1,7 @@
 # NyaRO Bug and Feature Tracking
 
+![NyaRO](.resources/nyaro-logo.png)
+
 This place was created for tracking a **bug reports** or **feature suggestions** concerning NyaRO!
 
 Here you can [browse for the **existing issues**](https://github.com/playdforg/NyaRO/issues) or [create a **new one**](https://github.com/playdforg/NyaRO/issues/new).
